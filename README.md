@@ -11,13 +11,6 @@
 pip install -r requirements.txt
 ```
 
-
-
-```
-pytest
-
-```
-
 ## Ejecutando las pruebas ⚙️
 
 * Ejecuta las pruebas unitarias. Dentro del directorio ejecute el comando pytest
